@@ -1,0 +1,5 @@
+# Sample domains
+example.com
+github.com
+python.org
+iana.org
